@@ -17,6 +17,8 @@ As the code is written to accompany the book, I don't intend to add
 new features. However, bug reports are welcome, and you should feel
 free to fork and modify the code.
 
+link for website : http://neuralnetworksanddeeplearning.com/
+
 ## License
 
 MIT License
